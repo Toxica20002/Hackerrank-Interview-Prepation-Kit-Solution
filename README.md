@@ -1,5 +1,5 @@
-# Hackerrank The HackerRank Interview Preparation Kit Solution
-Solution to the [Hackerrank archives](https://www.hackerrank.com/interview/interview-preparation-kit).
+# The HackerRank Interview Preparation Kit Solution
+Solution to the [The HackerRank Interview Preparation archives](https://www.hackerrank.com/interview/interview-preparation-kit).
 
 ## Warm-up Challenges Problems
 | Problem | Languages | :link: |
