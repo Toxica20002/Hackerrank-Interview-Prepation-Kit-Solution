@@ -9,9 +9,7 @@ Solution to the [The HackerRank Interview Preparation archives](https://www.hack
 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Jumping%20on%20the%20Clouds) |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Repeated%20String) |
 
-
-
-## Warm-up Challenges 
+## Arrays
 | Problem | Languages | Solution |
 | :-: | :-: | :-: |
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/2D%20Array%20-%20DS) |
