@@ -18,5 +18,14 @@ Solution to the [The HackerRank Interview Preparation archives](https://www.hack
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Minimum%20Swaps%202) |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Array%20Manipulation) |
 
+## Dictionaries and Hashmaps
+| Problem | Languages | Solution |
+| :-: | :-: | :-: |
+| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Ransom%20Note) |
+| [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Two%20Strings) |
+| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Sherlock%20and%20Anagrams) |
+| [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Count%20Triplets) |
+| [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Count%20Triplets) |
+
 
 
