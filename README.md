@@ -28,4 +28,22 @@ Solution to the [The HackerRank Interview Preparation archives](https://www.hack
 | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Count%20Triplets) |
 
 
+## Sorting
+| Problem | Languages | Solution |
+| :-: | :-: | :-: |
+| [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Bubble%20Sort) |
+| [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Mark%20and%20Toys) |
+| [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Sorting:%20Comparator) |
+| [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Fraudulent%20Activity%20Notifications) |
+| [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Merge%20Sort:%20Counting%20Inversions) |
+
+## String Manipulation
+| Problem | Languages | Solution |
+| :-: | :-: | :-: |
+| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Strings:%20Making%20Anagrams) |
+| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Alternating%20Characters) |
+| [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Sherlock%20and%20the%20Valid%20String) |
+| [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Special%20String%20Again) |
+| [Common Child](https://www.hackerrank.com/challenges/common-child/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Common%20Child) |
+
 
