@@ -84,3 +84,12 @@ Solution to the [The HackerRank Interview Preparation archives](https://www.hack
 | [Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Min%20Max%20Riddle/main.cpp) |
 | [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | No Solution |
 | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | No Solution |
+
+## Graphs
+| Problem | Languages | Solution |
+| :-: | :-: | :-: |
+| [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Roads%20and%20Libraries/main.cpp) |
+| [Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Find%20the%20nearest%20clone/main.cpp) |
+| [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/BFS:%20Shortest%20Reach%20in%20a%20Graph/main.cpp) |
+| [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/DFS:%20Connected%20Cell%20in%20a%20Grid/main.cpp) |
+| [Matrix](https://www.hackerrank.com/challenges/matrix/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs) | C++ | No Solution |
