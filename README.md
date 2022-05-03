@@ -101,3 +101,11 @@ Solution to the [The HackerRank Interview Preparation archives](https://www.hack
 | [Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Recursion:%20Davis'%20Staircase/main.cpp) |
 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking) | Python | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Recursive%20Digit%20Sum/main.py) |
 | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking) | C++ | No Solution |
+
+## Miscellaneous
+| Problem | Languages | Solution |
+| :-: | :-: | :-: |
+| [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Flipping%20bits/main.cpp) |
+| [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Time%20Complexity:%20Primality/main.cpp) |
+| [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Friend%20Circle%20Queries/main.cpp) |
+| [Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous) | C++ | No Solution |
