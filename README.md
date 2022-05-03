@@ -73,3 +73,14 @@ Solution to the [The HackerRank Interview Preparation archives](https://www.hack
 | [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Abbreviation/main.cpp) |
 | [Candies](https://www.hackerrank.com/challenges/candies/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) | C++ | No Solution |
 | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) | C++ | No Solution |
+
+
+## Stacks and Queues
+| Problem | Languages | Solution |
+| :-: | :-: | :-: |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Balanced%20Brackets/main.cpp) |
+| [Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Queues:%20A%20Tale%20of%20Two%20Stacks/main.cpp) |
+| [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Largest%20Rectangle/main.cpp) |
+| [Min Max Riddle](https://www.hackerrank.com/challenges/min-max-riddle/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Min%20Max%20Riddle/main.cpp) |
+| [Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | No Solution |
+| [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | C++ | No Solution |
