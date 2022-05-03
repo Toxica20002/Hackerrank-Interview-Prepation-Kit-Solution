@@ -46,4 +46,11 @@ Solution to the [The HackerRank Interview Preparation archives](https://www.hack
 | [Special String Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Special%20String%20Again/main.cpp) |
 | [Common Child](https://www.hackerrank.com/challenges/common-child/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | C++ | [:link:](https://github.com/tox480/Hackerrank-Interview-Prepation-Kit-Solution/tree/main/src/Common%20Child/main.cpp) |
 
-
+## Greedy Algorithms 
+| Problem | Languages | Solution |
+| :-: | :-: | :-: |
+| [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Minimum%20Absolute%20Difference%20in%20an%20Array/main.cpp) |
+| [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Luck%20Balance/main.cpp) |
+| [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Greedy%20Florist/main.cpp) |
+| [Max Min](https://www.hackerrank.com/challenges/angry-children/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Max%20Min/main.cpp) |
+| [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) | C++ | No solution |
