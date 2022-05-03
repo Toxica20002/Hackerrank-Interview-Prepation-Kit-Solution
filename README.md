@@ -65,3 +65,11 @@ Solution to the [The HackerRank Interview Preparation archives](https://www.hack
 | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | C++ | No Solution |
 | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Maximum%20Subarray%20Sum/main.cpp) |
 | [Making Candies](https://www.hackerrank.com/challenges/making-candies/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search) | C++ | No Solution |
+
+## Dynamic Programming
+| Problem | Languages | Solution |
+| :-: | :-: | :-: |
+| [Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Max%20Array%20Sum/main.cpp) |
+| [Abbreviation](https://www.hackerrank.com/challenges/abbr/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) | C++ | [:link:](https://github.com/Toxica20002/Hackerrank-Interview-Prepation-Kit-Solution/blob/main/src/Abbreviation/main.cpp) |
+| [Candies](https://www.hackerrank.com/challenges/candies/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) | C++ | No Solution |
+| [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) | C++ | No Solution |
